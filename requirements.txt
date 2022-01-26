@@ -1,0 +1,7 @@
+scikit-image >= 0.18
+cleanlab >= 1.0
+click >= 8.0.3
+imgaug >= 0.4.0
+dotmap
+albumentations >= 1.1.0 --no-binary qudida,albumentations
+opencv-python == 4.1.2.30

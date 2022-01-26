@@ -1,0 +1,6 @@
+
+*.pyc
+data/result
+*.iml
+*.xml
+*.json
