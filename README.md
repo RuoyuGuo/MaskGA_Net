@@ -1,5 +1,5 @@
-## Learning with Noise: Mask-Guided Attention Model for Weakly Supervised Nuclei Segmentation (MICCAI2021)
-## SAC-Net: Learning with weak and noisy labels in histopathology image segmentation (MedIA)
+## Learning with Noise: Mask-Guided Attention Model for Weakly Supervised Nuclei Segmentation (MICCAI 2021)
+## SAC-Net: Learning with weak and noisy labels in histopathology image segmentation (MedIA 2023)
 ---
 Offical PyTorch implementation
 
