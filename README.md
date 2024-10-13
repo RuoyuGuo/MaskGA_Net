@@ -1,4 +1,5 @@
 # Learning with Noise: Mask-Guided Attention Model for Weakly Supervised Nuclei Segmentation (MICCAI2021)
+# SAC-Net: Learning with weak and noisy labels in histopathology image segmentation (MedIA)
 ---
 Offical PyTorch implementation
 
@@ -128,13 +129,19 @@ However, you may want to see if you could generate better result by applying CL 
 If you find our code useful, please consider to cite our paper.
 ```
 @InProceedings{10.1007/978-3-030-87196-3_43,
-    author="Guo, Ruoyu
-    and Pagnucco, Maurice
-    and Song, Yang",
-    title="Learning with Noise: Mask-Guided Attention Model for Weakly Supervised Nuclei Segmentation",
-    booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2021",
-    year="2021",
-    publisher="Springer International Publishing",
-    pages="461--470",
+    author={Guo, Ruoyu and Xie, Kunzi and Pagnucco, Maurice and Song, Yang},
+    title={Learning with Noise: Mask-Guided Attention Model for Weakly Supervised Nuclei Segmentation},
+    booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
+    year={2021},
+    pages={461--470},
+}
+
+@article{guo2023sac,
+  title={SAC-Net: Learning with weak and noisy labels in histopathology image segmentation},
+  author={Guo, Ruoyu and Xie, Kunzi and Pagnucco, Maurice and Song, Yang},
+  journal={Medical Image Analysis},
+  volume={86},
+  pages={102790},
+  year={2023},
 }
 ```
